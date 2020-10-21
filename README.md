@@ -1,5 +1,5 @@
 # IP_Midterm
-Bài kiểm tra giữa kì
+Bài kiểm tra giữa kì 
 Môn xử lí ảnh
 Nguyễn Quốc An
 1802010
